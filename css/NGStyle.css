@@ -20,6 +20,7 @@ img.NG02{
     border-style: solid;
     border-color: black;
 }
+
 .flex-container {
     display: -webkit-flex;
     display: flex;  
@@ -30,7 +31,6 @@ img.NG02{
 
 .flex-container > * {
     padding: 15px;
-    padding-top: 50px;
     -webkit-flex: 1 100%;
     flex: 1 100%;
 }
@@ -49,10 +49,17 @@ footer {
     color:white;
 }
 
-.nav {background:#eee;}
+.nav {
+    background:#eee;
+}
+
+#content ul {
+     -webkit-padding-start: 0px;
+}
 
 .nav ul {
     list-style-type: none;
+    padding:20;
 }
 .nav ul a {
     text-decoration: none;
