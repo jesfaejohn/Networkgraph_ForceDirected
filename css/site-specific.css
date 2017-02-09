@@ -134,3 +134,8 @@ li.assignmentLink > a{
 li.assignmentLink > a:hover{
     background-color: #FFFF00; 
 }
+
+div.namebar{
+    background: #aaa;
+    color:white;
+}
