@@ -156,6 +156,7 @@ div.namebar{
 
 .flex-container > * {
     padding: 15px;
+    flex-direction: column;
     -webkit-flex: 1 100%;
     flex: 1 100%;
 }
