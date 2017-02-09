@@ -63,6 +63,7 @@ footer {
 
 .next ul{
    list-style-type: none;
+   text-align: right;
 }
 
 @media all and (min-width: 768px) {
