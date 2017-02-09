@@ -11,7 +11,7 @@ img.NG01{
 img.NG02{
     width: 30%;
     margin: 0px 0px 20px 20px;
-    border: 5px #aaa;
+    border: 1px solid #aaa;
     display: block;
     float :right;
 }
