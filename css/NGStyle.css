@@ -3,9 +3,10 @@ body{
 }
 
 img.bioImage{
-    width: 100%;
-    margin: auto;
+    width: 75%;
+    margin: right;
     display: block;
+    align-items: right;
 }
 
 .flex-container {
