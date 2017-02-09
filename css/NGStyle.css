@@ -1,3 +1,13 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+img.bioImage{
+    width: 25%;
+    margin: auto;
+    display: block;
+}
+
 .flex-container {
     display: -webkit-flex;
     display: flex;  
