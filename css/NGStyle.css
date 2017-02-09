@@ -11,6 +11,7 @@ img.NG01{
 img.NG02{
     width: 25%;
     margin: 0px 0px 20px 20px;
+    border: 1px #aaa;
     display: block;
     float :right;
 }
@@ -50,11 +51,12 @@ footer {
     padding: 0;
 }
 .nav ul a {
+    font-size: 2em;
     text-decoration: none;
 }
 
 @media all and (min-width: 768px) {
-    .nav {text-align:left;-webkit-flex: 1 auto;flex:1 auto;-webkit-order:1;order:1;}
+    .nav {text-align:center;-webkit-flex:1 auto;flex:1 auto;-webkit-order:1;order:1;}
     .article {-webkit-flex:5 0px;flex:5 0px;-webkit-order:2;order:2;}
     footer {-webkit-order:3;order:3;}
 }
