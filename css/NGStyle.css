@@ -11,11 +11,15 @@ img.NG01{
 img.NG02{
     width: 30%;
     margin: 0px 0px 20px 20px;
-    border: 1px solid #aaa;
     display: block;
     float :right;
 }
 
+.border{
+    border-wdth: 1px;
+    border-style: solid;
+    border-color: black;
+}
 .flex-container {
     display: -webkit-flex;
     display: flex;  
@@ -51,7 +55,7 @@ footer {
     padding: 0;
 }
 .nav ul a {
-    font-size: 1em;
+    font-size: 2em;
     text-decoration: none;
 }
 
