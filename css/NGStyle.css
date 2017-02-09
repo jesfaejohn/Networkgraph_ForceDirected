@@ -16,7 +16,7 @@ img.NG02{
 }
 
 .border{
-    border-wdth: 1px;
+    border-width: 1px;
     border-style: solid;
     border-color: black;
 }
@@ -55,7 +55,6 @@ footer {
     padding: 0;
 }
 .nav ul a {
-    font-size: 2em;
     text-decoration: none;
 }
 
