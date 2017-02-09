@@ -138,5 +138,6 @@ li.assignmentLink > a:hover{
 div.namebar{
     background: #aaa;
     color:white;
+    text-align: center;
     font-size: 1.5em;
 }
