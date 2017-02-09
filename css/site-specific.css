@@ -40,6 +40,12 @@ div.bio{
     margin-right: auto;
     margin-left: auto;
 }
+div.box{
+    max-width: 800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 img.bioImage{
     width: 25%;
