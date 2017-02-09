@@ -151,7 +151,7 @@ div.namebar{
     display: flex;  
     -webkit-flex-flow: row wrap;
     flex-flow: column;
-    text-align: center;
+    justify-content: center;
 }
 .column.left{
     width: 500px;
