@@ -150,11 +150,11 @@ div.namebar{
     display: -webkit-flex;
     display: flex;  
     -webkit-flex-flow: row wrap;
-    flex-flow: column;
-    justify-content: center;
+    justify-content: center
+    width: 100%;
 }
 .column.left{
-    width: 500px;
+    width: 250px;
 }
 
 .flex-container > * {
